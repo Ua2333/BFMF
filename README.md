@@ -11,4 +11,4 @@ git clone https://github.com/Ua2333/BFMF
 cd BFMF
 
                             
-python BFMF.py
+python Run.py
