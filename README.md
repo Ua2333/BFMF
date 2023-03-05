@@ -12,4 +12,4 @@ cd BFMF
                         
 pip3 install -r requirements.txt
                             
-python3 BFMF.py
+python BFMF.py
