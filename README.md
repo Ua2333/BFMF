@@ -4,7 +4,7 @@ apt update -y && apt upgrade -y
         
 pkg install git
             
-pkg install python3
+pkg install python
                 
 git clone https://github.com/Ua2333/BFMF
                     
